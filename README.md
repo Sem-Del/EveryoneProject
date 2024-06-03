@@ -4,7 +4,6 @@ Welcome to the EveryoneProject if you are invited in this project you can edit t
 
 ## Contributors:
 
-###contributor:
 - [Sem-Del](https://github.com/Sem-Del) (Did the layout of README.md)
 
 - [luuk600](https://github.com/luuk600) (Fixed the fixed grammar problems)
