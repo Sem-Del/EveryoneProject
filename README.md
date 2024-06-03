@@ -4,11 +4,11 @@ Welcome to the EveryoneProject if you are invited in this project you can edit t
 
 ## Contributors:
 
-- [Sem-Del](https://github.com/Sem-Del) (Did the layout of README.md)
+- [Sem-Del](https://github.com/Sem-Del)
 
-- [luuk600](https://github.com/luuk600) (Fixed the fixed grammar problems)
+- [luuk600](https://github.com/luuk600)
 
-- [cheese](https://github.com/DeanLemans) (Fixed some grammar problems)
+- [cheese](https://github.com/DeanLemans)
 
 - [DukeVZ](https://github.com/DukeVZ)
 
