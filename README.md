@@ -6,12 +6,11 @@ Welcome to the EveryoneProject if you are invited in this project you can edit t
 
 - [Sem-Del](https://github.com/Sem-Del)
 
-- [Luuk600](https://github.com/luuk600)
-
 - [cheese](https://github.com/DeanLemans)
 
+### invited:
 - [DukeLut](https://github.com/DukeVZ)
-
+- [Luuk600](https://github.com/luuk600)
 ## License
 
 EveryoneProject is released under the [AGPL-3.0 License](https://www.gnu.org/licenses/agpl-3.0.html).
