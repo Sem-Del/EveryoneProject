@@ -1,2 +1,1 @@
-# pw-pwease be nice to each other. 
-# UWU
+# just work together, accept change.
