@@ -8,7 +8,7 @@ Welcome to the EveryoneProject if you are invited in this project you can edit t
 
 - [cheese](https://github.com/DeanLemans)
 
-### invited:
+### Invited:
 - [DukeLut](https://github.com/DukeVZ)
 - [Luuk600](https://github.com/luuk600)
 ## License
