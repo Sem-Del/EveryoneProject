@@ -2,12 +2,8 @@
 
 ## Supported Versions
 
-there are no versions
+there are no versions, there is however a website.
 
 | Version | Supported          |
 | ------- | ------------------ |
 | X   | X |
-
-### Reporting a Vulnerability
-
-Please report vulnerabilities to the issue page
