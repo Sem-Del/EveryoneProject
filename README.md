@@ -1,6 +1,6 @@
-# ***Cool*** Everyone Project
+# A ***cool*** everyone Project
 
-Welcome to the EveryoneProject if you are invited in this project you can edit this and add random stuff. Please dont delete or change the information of others and keep it normal.
+Welcome to the EveryoneProject you can edit this and add random stuff. After you have edited or added some stuff you can push the changes and we will look at it and maybe add it to the project. We do not care what you do with the project except if it is hate, cursing or anything bad. Please dont delete or change the information of others. Lets see what we can make!
 
 ## Contributors:
 
@@ -10,11 +10,9 @@ Welcome to the EveryoneProject if you are invited in this project you can edit t
 
 - [nooseses](https://github.com/nooseses)
 
-Dgrgg
-
-### Invited:
+## Invited:
 - [DukeLut](https://github.com/DukeVZ)
-- [Luuk600](https://github.com/luuk600)
+
 ## License
 
 EveryoneProject is released under the [AGPL-3.0 License](https://www.gnu.org/licenses/agpl-3.0.html).
