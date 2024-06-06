@@ -1,1 +1,1 @@
-# just work together, accept change.
+# Just work together, accept change.
